@@ -9,4 +9,4 @@
 
 ## After user input
 
-![Alt text](/images/Atlanta?raw=true "Title")
+![Alt text](/images/Atlanta.png?raw=true "Title")
